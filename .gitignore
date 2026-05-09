@@ -31,3 +31,20 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
+### CMake / Build artifacts ###
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+*.make
+cmake-build-*/
+build/
+
+### Compiled binaries ###
+*.exe
+*.o
+*.obj
+*.out
+a.out
+
